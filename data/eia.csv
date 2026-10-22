@@ -1,6 +1,50 @@
 period,duoarea,area-name,product,product-name,process,process-name,series,series-description,value,units
+2026-10-20,Y05LA,LOS ANGELES,EPD2DC,Carb Diesel,PF4,Spot Price FOB,EER_EPD2DC_PF4_Y05LA_DPG,"Los Angeles, CA Ultra-Low Sulfur CARB Diesel Spot Price (Dollars per Gallon)",5.365,$/GAL
+2026-10-20,YCUOK,NA,EPCWTI,WTI Crude Oil,PF4,Spot Price FOB,RWTC,"Cushing, OK WTI Spot Price FOB (Dollars per Barrel)",107.89,$/BBL
+2026-10-20,ZEU,NA,EPCBRENT,UK Brent Crude Oil,PF4,Spot Price FOB,RBRTE,Europe Brent Spot Price FOB (Dollars per Barrel),115.22,$/BBL
+2026-10-20,Y35NY,NEW YORK CITY,EPMRU,Conventional Regular Gasoline,PF4,Spot Price FOB,EER_EPMRU_PF4_Y35NY_DPG,New York Harbor Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon),2.897,$/GAL
+2026-10-20,RGC,NA,EPMRU,Conventional Regular Gasoline,PF4,Spot Price FOB,EER_EPMRU_PF4_RGC_DPG,U.S. Gulf Coast Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon),3.157,$/GAL
+2026-10-20,Y05LA,LOS ANGELES,EPMRR,Reformulated Regular Gasoline,PF4,Spot Price FOB,EER_EPMRR_PF4_Y05LA_DPG,Los Angeles Reformulated RBOB Regular Gasoline Spot Price (Dollars per Gallon),3.477,$/GAL
+2026-10-20,Y44MB,NA,EPLLPA,Propane,PF4,Spot Price FOB,EER_EPLLPA_PF4_Y44MB_DPG,"Mont Belvieu, TX Propane Spot Price FOB (Dollars per Gallon)",1.133,$/GAL
+2026-10-20,RGC,NA,EPJK,Kerosene-Type Jet Fuel,PF4,Spot Price FOB,EER_EPJK_PF4_RGC_DPG,U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB (Dollars per Gallon),4.632,$/GAL
+2026-10-20,Y35NY,NEW YORK CITY,EPD2F,No 2 Fuel Oil / Heating Oil,PF4,Spot Price FOB,EER_EPD2F_PF4_Y35NY_DPG,New York Harbor No. 2 Heating Oil Spot Price FOB (Dollars per Gallon),4.832,$/GAL
+2026-10-20,Y35NY,NEW YORK CITY,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PF4,Spot Price FOB,EER_EPD2DXL0_PF4_Y35NY_DPG,New York Harbor Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon),5.265,$/GAL
+2026-10-20,RGC,NA,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PF4,Spot Price FOB,EER_EPD2DXL0_PF4_RGC_DPG,U.S. Gulf Coast Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon),4.962,$/GAL
+2026-10-19,Y05LA,LOS ANGELES,EPD2DC,Carb Diesel,PF4,Spot Price FOB,EER_EPD2DC_PF4_Y05LA_DPG,"Los Angeles, CA Ultra-Low Sulfur CARB Diesel Spot Price (Dollars per Gallon)",5.383,$/GAL
+2026-10-19,YCUOK,NA,EPCWTI,WTI Crude Oil,PF4,Spot Price FOB,RWTC,"Cushing, OK WTI Spot Price FOB (Dollars per Barrel)",110.01,$/BBL
+2026-10-19,ZEU,NA,EPCBRENT,UK Brent Crude Oil,PF4,Spot Price FOB,RBRTE,Europe Brent Spot Price FOB (Dollars per Barrel),118.82,$/BBL
+2026-10-19,Y35NY,NEW YORK CITY,EPMRU,Conventional Regular Gasoline,PF4,Spot Price FOB,EER_EPMRU_PF4_Y35NY_DPG,New York Harbor Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon),2.915,$/GAL
+2026-10-19,RGC,NA,EPMRU,Conventional Regular Gasoline,PF4,Spot Price FOB,EER_EPMRU_PF4_RGC_DPG,U.S. Gulf Coast Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon),3.248,$/GAL
+2026-10-19,Y05LA,LOS ANGELES,EPMRR,Reformulated Regular Gasoline,PF4,Spot Price FOB,EER_EPMRR_PF4_Y05LA_DPG,Los Angeles Reformulated RBOB Regular Gasoline Spot Price (Dollars per Gallon),3.458,$/GAL
+2026-10-19,Y44MB,NA,EPLLPA,Propane,PF4,Spot Price FOB,EER_EPLLPA_PF4_Y44MB_DPG,"Mont Belvieu, TX Propane Spot Price FOB (Dollars per Gallon)",1.13,$/GAL
+2026-10-19,RGC,NA,EPJK,Kerosene-Type Jet Fuel,PF4,Spot Price FOB,EER_EPJK_PF4_RGC_DPG,U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB (Dollars per Gallon),4.567,$/GAL
+2026-10-19,Y35NY,NEW YORK CITY,EPD2F,No 2 Fuel Oil / Heating Oil,PF4,Spot Price FOB,EER_EPD2F_PF4_Y35NY_DPG,New York Harbor No. 2 Heating Oil Spot Price FOB (Dollars per Gallon),4.84,$/GAL
+2026-10-19,Y35NY,NEW YORK CITY,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PF4,Spot Price FOB,EER_EPD2DXL0_PF4_Y35NY_DPG,New York Harbor Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon),5.173,$/GAL
+2026-10-19,RGC,NA,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PF4,Spot Price FOB,EER_EPD2DXL0_PF4_RGC_DPG,U.S. Gulf Coast Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon),4.968,$/GAL
+2026-10-16,Y05LA,LOS ANGELES,EPD2DC,Carb Diesel,PF4,Spot Price FOB,EER_EPD2DC_PF4_Y05LA_DPG,"Los Angeles, CA Ultra-Low Sulfur CARB Diesel Spot Price (Dollars per Gallon)",5.347,$/GAL
+2026-10-16,YCUOK,NA,EPCWTI,WTI Crude Oil,PF4,Spot Price FOB,RWTC,"Cushing, OK WTI Spot Price FOB (Dollars per Barrel)",108.21,$/BBL
+2026-10-16,ZEU,NA,EPCBRENT,UK Brent Crude Oil,PF4,Spot Price FOB,RBRTE,Europe Brent Spot Price FOB (Dollars per Barrel),119.33,$/BBL
+2026-10-16,Y35NY,NEW YORK CITY,EPMRU,Conventional Regular Gasoline,PF4,Spot Price FOB,EER_EPMRU_PF4_Y35NY_DPG,New York Harbor Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon),2.968,$/GAL
+2026-10-16,RGC,NA,EPMRU,Conventional Regular Gasoline,PF4,Spot Price FOB,EER_EPMRU_PF4_RGC_DPG,U.S. Gulf Coast Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon),3.333,$/GAL
+2026-10-16,Y05LA,LOS ANGELES,EPMRR,Reformulated Regular Gasoline,PF4,Spot Price FOB,EER_EPMRR_PF4_Y05LA_DPG,Los Angeles Reformulated RBOB Regular Gasoline Spot Price (Dollars per Gallon),3.503,$/GAL
+2026-10-16,Y44MB,NA,EPLLPA,Propane,PF4,Spot Price FOB,EER_EPLLPA_PF4_Y44MB_DPG,"Mont Belvieu, TX Propane Spot Price FOB (Dollars per Gallon)",1.113,$/GAL
+2026-10-16,RGC,NA,EPJK,Kerosene-Type Jet Fuel,PF4,Spot Price FOB,EER_EPJK_PF4_RGC_DPG,U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB (Dollars per Gallon),4.516,$/GAL
+2026-10-16,Y35NY,NEW YORK CITY,EPD2F,No 2 Fuel Oil / Heating Oil,PF4,Spot Price FOB,EER_EPD2F_PF4_Y35NY_DPG,New York Harbor No. 2 Heating Oil Spot Price FOB (Dollars per Gallon),4.804,$/GAL
+2026-10-16,Y35NY,NEW YORK CITY,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PF4,Spot Price FOB,EER_EPD2DXL0_PF4_Y35NY_DPG,New York Harbor Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon),5.102,$/GAL
+2026-10-16,RGC,NA,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PF4,Spot Price FOB,EER_EPD2DXL0_PF4_RGC_DPG,U.S. Gulf Coast Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon),4.932,$/GAL
+2026-10-15,Y05LA,LOS ANGELES,EPD2DC,Carb Diesel,PF4,Spot Price FOB,EER_EPD2DC_PF4_Y05LA_DPG,"Los Angeles, CA Ultra-Low Sulfur CARB Diesel Spot Price (Dollars per Gallon)",5.518,$/GAL
+2026-10-15,YCUOK,NA,EPCWTI,WTI Crude Oil,PF4,Spot Price FOB,RWTC,"Cushing, OK WTI Spot Price FOB (Dollars per Barrel)",104.71,$/BBL
+2026-10-15,ZEU,NA,EPCBRENT,UK Brent Crude Oil,PF4,Spot Price FOB,RBRTE,Europe Brent Spot Price FOB (Dollars per Barrel),126.35,$/BBL
+2026-10-15,Y35NY,NEW YORK CITY,EPMRU,Conventional Regular Gasoline,PF4,Spot Price FOB,EER_EPMRU_PF4_Y35NY_DPG,New York Harbor Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon),2.89,$/GAL
+2026-10-15,RGC,NA,EPMRU,Conventional Regular Gasoline,PF4,Spot Price FOB,EER_EPMRU_PF4_RGC_DPG,U.S. Gulf Coast Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon),3.265,$/GAL
+2026-10-15,Y05LA,LOS ANGELES,EPMRR,Reformulated Regular Gasoline,PF4,Spot Price FOB,EER_EPMRR_PF4_Y05LA_DPG,Los Angeles Reformulated RBOB Regular Gasoline Spot Price (Dollars per Gallon),3.58,$/GAL
+2026-10-15,Y44MB,NA,EPLLPA,Propane,PF4,Spot Price FOB,EER_EPLLPA_PF4_Y44MB_DPG,"Mont Belvieu, TX Propane Spot Price FOB (Dollars per Gallon)",1.068,$/GAL
+2026-10-15,RGC,NA,EPJK,Kerosene-Type Jet Fuel,PF4,Spot Price FOB,EER_EPJK_PF4_RGC_DPG,U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB (Dollars per Gallon),4.426,$/GAL
+2026-10-15,Y35NY,NEW YORK CITY,EPD2F,No 2 Fuel Oil / Heating Oil,PF4,Spot Price FOB,EER_EPD2F_PF4_Y35NY_DPG,New York Harbor No. 2 Heating Oil Spot Price FOB (Dollars per Gallon),4.721,$/GAL
+2026-10-15,Y35NY,NEW YORK CITY,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PF4,Spot Price FOB,EER_EPD2DXL0_PF4_Y35NY_DPG,New York Harbor Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon),4.943,$/GAL
+2026-10-15,RGC,NA,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PF4,Spot Price FOB,EER_EPD2DXL0_PF4_RGC_DPG,U.S. Gulf Coast Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon),4.848,$/GAL
 2026-10-14,Y05LA,LOS ANGELES,EPD2DC,Carb Diesel,PF4,Spot Price FOB,EER_EPD2DC_PF4_Y05LA_DPG,"Los Angeles, CA Ultra-Low Sulfur CARB Diesel Spot Price (Dollars per Gallon)",5.526,$/GAL
-2026-10-14,YCUOK,NA,EPCWTI,WTI Crude Oil,PF4,Spot Price FOB,RWTC,"Cushing, OK WTI Spot Price FOB (Dollars per Barrel)",101.91,$/BBL
+2026-10-14,YCUOK,NA,EPCWTI,WTI Crude Oil,PF4,Spot Price FOB,RWTC,"Cushing, OK WTI Spot Price FOB (Dollars per Barrel)",96.34,$/BBL
 2026-10-14,ZEU,NA,EPCBRENT,UK Brent Crude Oil,PF4,Spot Price FOB,RBRTE,Europe Brent Spot Price FOB (Dollars per Barrel),126.55,$/BBL
 2026-10-14,Y35NY,NEW YORK CITY,EPMRU,Conventional Regular Gasoline,PF4,Spot Price FOB,EER_EPMRU_PF4_Y35NY_DPG,New York Harbor Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon),2.987,$/GAL
 2026-10-14,RGC,NA,EPMRU,Conventional Regular Gasoline,PF4,Spot Price FOB,EER_EPMRU_PF4_RGC_DPG,U.S. Gulf Coast Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon),3.525,$/GAL
@@ -11,7 +55,7 @@ period,duoarea,area-name,product,product-name,process,process-name,series,series
 2026-10-14,Y35NY,NEW YORK CITY,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PF4,Spot Price FOB,EER_EPD2DXL0_PF4_Y35NY_DPG,New York Harbor Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon),5.066,$/GAL
 2026-10-14,RGC,NA,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PF4,Spot Price FOB,EER_EPD2DXL0_PF4_RGC_DPG,U.S. Gulf Coast Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon),4.844,$/GAL
 2026-10-13,Y05LA,LOS ANGELES,EPD2DC,Carb Diesel,PF4,Spot Price FOB,EER_EPD2DC_PF4_Y05LA_DPG,"Los Angeles, CA Ultra-Low Sulfur CARB Diesel Spot Price (Dollars per Gallon)",5.259,$/GAL
-2026-10-13,YCUOK,NA,EPCWTI,WTI Crude Oil,PF4,Spot Price FOB,RWTC,"Cushing, OK WTI Spot Price FOB (Dollars per Barrel)",100.86,$/BBL
+2026-10-13,YCUOK,NA,EPCWTI,WTI Crude Oil,PF4,Spot Price FOB,RWTC,"Cushing, OK WTI Spot Price FOB (Dollars per Barrel)",95.39,$/BBL
 2026-10-13,ZEU,NA,EPCBRENT,UK Brent Crude Oil,PF4,Spot Price FOB,RBRTE,Europe Brent Spot Price FOB (Dollars per Barrel),125.78,$/BBL
 2026-10-13,Y35NY,NEW YORK CITY,EPMRU,Conventional Regular Gasoline,PF4,Spot Price FOB,EER_EPMRU_PF4_Y35NY_DPG,New York Harbor Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon),2.988,$/GAL
 2026-10-13,RGC,NA,EPMRU,Conventional Regular Gasoline,PF4,Spot Price FOB,EER_EPMRU_PF4_RGC_DPG,U.S. Gulf Coast Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon),3.403,$/GAL
@@ -22,7 +66,7 @@ period,duoarea,area-name,product,product-name,process,process-name,series,series
 2026-10-13,Y35NY,NEW YORK CITY,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PF4,Spot Price FOB,EER_EPD2DXL0_PF4_Y35NY_DPG,New York Harbor Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon),5.114,$/GAL
 2026-10-13,RGC,NA,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PF4,Spot Price FOB,EER_EPD2DXL0_PF4_RGC_DPG,U.S. Gulf Coast Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon),4.894,$/GAL
 2026-10-12,Y05LA,LOS ANGELES,EPD2DC,Carb Diesel,PF4,Spot Price FOB,EER_EPD2DC_PF4_Y05LA_DPG,"Los Angeles, CA Ultra-Low Sulfur CARB Diesel Spot Price (Dollars per Gallon)",4.972,$/GAL
-2026-10-12,YCUOK,NA,EPCWTI,WTI Crude Oil,PF4,Spot Price FOB,RWTC,"Cushing, OK WTI Spot Price FOB (Dollars per Barrel)",98.73,$/BBL
+2026-10-12,YCUOK,NA,EPCWTI,WTI Crude Oil,PF4,Spot Price FOB,RWTC,"Cushing, OK WTI Spot Price FOB (Dollars per Barrel)",94.99,$/BBL
 2026-10-12,ZEU,NA,EPCBRENT,UK Brent Crude Oil,PF4,Spot Price FOB,RBRTE,Europe Brent Spot Price FOB (Dollars per Barrel),129.95,$/BBL
 2026-10-12,Y35NY,NEW YORK CITY,EPMRU,Conventional Regular Gasoline,PF4,Spot Price FOB,EER_EPMRU_PF4_Y35NY_DPG,New York Harbor Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon),3.02,$/GAL
 2026-10-12,RGC,NA,EPMRU,Conventional Regular Gasoline,PF4,Spot Price FOB,EER_EPMRU_PF4_RGC_DPG,U.S. Gulf Coast Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon),3.443,$/GAL
@@ -1949,53 +1993,9 @@ period,duoarea,area-name,product,product-name,process,process-name,series,series
 2026-02-02,Y35NY,NEW YORK CITY,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PF4,Spot Price FOB,EER_EPD2DXL0_PF4_Y35NY_DPG,New York Harbor Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon),2.287,$/GAL
 2026-02-02,RGC,NA,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PF4,Spot Price FOB,EER_EPD2DXL0_PF4_RGC_DPG,U.S. Gulf Coast Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon),2.08,$/GAL
 2026-01-30,Y05LA,LOS ANGELES,EPD2DC,Carb Diesel,PF4,Spot Price FOB,EER_EPD2DC_PF4_Y05LA_DPG,"Los Angeles, CA Ultra-Low Sulfur CARB Diesel Spot Price (Dollars per Gallon)",2.402,$/GAL
-2026-01-30,YCUOK,NA,EPCWTI,WTI Crude Oil,PF4,Spot Price FOB,RWTC,"Cushing, OK WTI Spot Price FOB (Dollars per Barrel)",64.5,$/BBL
-2026-01-30,ZEU,NA,EPCBRENT,UK Brent Crude Oil,PF4,Spot Price FOB,RBRTE,Europe Brent Spot Price FOB (Dollars per Barrel),72.25,$/BBL
-2026-01-30,Y35NY,NEW YORK CITY,EPMRU,Conventional Regular Gasoline,PF4,Spot Price FOB,EER_EPMRU_PF4_Y35NY_DPG,New York Harbor Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon),2.188,$/GAL
-2026-01-30,RGC,NA,EPMRU,Conventional Regular Gasoline,PF4,Spot Price FOB,EER_EPMRU_PF4_RGC_DPG,U.S. Gulf Coast Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon),2.16,$/GAL
 2026-01-30,Y05LA,LOS ANGELES,EPMRR,Reformulated Regular Gasoline,PF4,Spot Price FOB,EER_EPMRR_PF4_Y05LA_DPG,Los Angeles Reformulated RBOB Regular Gasoline Spot Price (Dollars per Gallon),2.53,$/GAL
 2026-01-30,Y44MB,NA,EPLLPA,Propane,PF4,Spot Price FOB,EER_EPLLPA_PF4_Y44MB_DPG,"Mont Belvieu, TX Propane Spot Price FOB (Dollars per Gallon)",.659,$/GAL
 2026-01-30,RGC,NA,EPJK,Kerosene-Type Jet Fuel,PF4,Spot Price FOB,EER_EPJK_PF4_RGC_DPG,U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB (Dollars per Gallon),2.277,$/GAL
 2026-01-30,Y35NY,NEW YORK CITY,EPD2F,No 2 Fuel Oil / Heating Oil,PF4,Spot Price FOB,EER_EPD2F_PF4_Y35NY_DPG,New York Harbor No. 2 Heating Oil Spot Price FOB (Dollars per Gallon),2.334,$/GAL
 2026-01-30,Y35NY,NEW YORK CITY,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PF4,Spot Price FOB,EER_EPD2DXL0_PF4_Y35NY_DPG,New York Harbor Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon),2.482,$/GAL
 2026-01-30,RGC,NA,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PF4,Spot Price FOB,EER_EPD2DXL0_PF4_RGC_DPG,U.S. Gulf Coast Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon),2.274,$/GAL
-2026-01-29,Y05LA,LOS ANGELES,EPD2DC,Carb Diesel,PF4,Spot Price FOB,EER_EPD2DC_PF4_Y05LA_DPG,"Los Angeles, CA Ultra-Low Sulfur CARB Diesel Spot Price (Dollars per Gallon)",2.373,$/GAL
-2026-01-29,YCUOK,NA,EPCWTI,WTI Crude Oil,PF4,Spot Price FOB,RWTC,"Cushing, OK WTI Spot Price FOB (Dollars per Barrel)",64.77,$/BBL
-2026-01-29,ZEU,NA,EPCBRENT,UK Brent Crude Oil,PF4,Spot Price FOB,RBRTE,Europe Brent Spot Price FOB (Dollars per Barrel),71,$/BBL
-2026-01-29,Y35NY,NEW YORK CITY,EPMRU,Conventional Regular Gasoline,PF4,Spot Price FOB,EER_EPMRU_PF4_Y35NY_DPG,New York Harbor Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon),2.166,$/GAL
-2026-01-29,RGC,NA,EPMRU,Conventional Regular Gasoline,PF4,Spot Price FOB,EER_EPMRU_PF4_RGC_DPG,U.S. Gulf Coast Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon),2.139,$/GAL
-2026-01-29,Y05LA,LOS ANGELES,EPMRR,Reformulated Regular Gasoline,PF4,Spot Price FOB,EER_EPMRR_PF4_Y05LA_DPG,Los Angeles Reformulated RBOB Regular Gasoline Spot Price (Dollars per Gallon),2.519,$/GAL
-2026-01-29,Y44MB,NA,EPLLPA,Propane,PF4,Spot Price FOB,EER_EPLLPA_PF4_Y44MB_DPG,"Mont Belvieu, TX Propane Spot Price FOB (Dollars per Gallon)",.661,$/GAL
-2026-01-29,RGC,NA,EPJK,Kerosene-Type Jet Fuel,PF4,Spot Price FOB,EER_EPJK_PF4_RGC_DPG,U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB (Dollars per Gallon),2.248,$/GAL
-2026-01-29,Y35NY,NEW YORK CITY,EPD2F,No 2 Fuel Oil / Heating Oil,PF4,Spot Price FOB,EER_EPD2F_PF4_Y35NY_DPG,New York Harbor No. 2 Heating Oil Spot Price FOB (Dollars per Gallon),2.305,$/GAL
-2026-01-29,Y35NY,NEW YORK CITY,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PF4,Spot Price FOB,EER_EPD2DXL0_PF4_Y35NY_DPG,New York Harbor Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon),2.453,$/GAL
-2026-01-29,RGC,NA,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PF4,Spot Price FOB,EER_EPD2DXL0_PF4_RGC_DPG,U.S. Gulf Coast Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon),2.27,$/GAL
-2026-01-28,Y05LA,LOS ANGELES,EPD2DC,Carb Diesel,PF4,Spot Price FOB,EER_EPD2DC_PF4_Y05LA_DPG,"Los Angeles, CA Ultra-Low Sulfur CARB Diesel Spot Price (Dollars per Gallon)",2.314,$/GAL
-2026-01-28,YCUOK,NA,EPCWTI,WTI Crude Oil,PF4,Spot Price FOB,RWTC,"Cushing, OK WTI Spot Price FOB (Dollars per Barrel)",62.75,$/BBL
-2026-01-28,ZEU,NA,EPCBRENT,UK Brent Crude Oil,PF4,Spot Price FOB,RBRTE,Europe Brent Spot Price FOB (Dollars per Barrel),70.9,$/BBL
-2026-01-28,Y35NY,NEW YORK CITY,EPMRU,Conventional Regular Gasoline,PF4,Spot Price FOB,EER_EPMRU_PF4_Y35NY_DPG,New York Harbor Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon),2.143,$/GAL
-2026-01-28,RGC,NA,EPMRU,Conventional Regular Gasoline,PF4,Spot Price FOB,EER_EPMRU_PF4_RGC_DPG,U.S. Gulf Coast Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon),2.153,$/GAL
-2026-01-28,Y05LA,LOS ANGELES,EPMRR,Reformulated Regular Gasoline,PF4,Spot Price FOB,EER_EPMRR_PF4_Y05LA_DPG,Los Angeles Reformulated RBOB Regular Gasoline Spot Price (Dollars per Gallon),2.496,$/GAL
-2026-01-28,Y44MB,NA,EPLLPA,Propane,PF4,Spot Price FOB,EER_EPLLPA_PF4_Y44MB_DPG,"Mont Belvieu, TX Propane Spot Price FOB (Dollars per Gallon)",.653,$/GAL
-2026-01-28,RGC,NA,EPJK,Kerosene-Type Jet Fuel,PF4,Spot Price FOB,EER_EPJK_PF4_RGC_DPG,U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB (Dollars per Gallon),2.189,$/GAL
-2026-01-28,Y35NY,NEW YORK CITY,EPD2F,No 2 Fuel Oil / Heating Oil,PF4,Spot Price FOB,EER_EPD2F_PF4_Y35NY_DPG,New York Harbor No. 2 Heating Oil Spot Price FOB (Dollars per Gallon),2.246,$/GAL
-2026-01-28,Y35NY,NEW YORK CITY,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PF4,Spot Price FOB,EER_EPD2DXL0_PF4_Y35NY_DPG,New York Harbor Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon),2.394,$/GAL
-2026-01-28,RGC,NA,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PF4,Spot Price FOB,EER_EPD2DXL0_PF4_RGC_DPG,U.S. Gulf Coast Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon),2.231,$/GAL
-2026-01-27,Y05LA,LOS ANGELES,EPD2DC,Carb Diesel,PF4,Spot Price FOB,EER_EPD2DC_PF4_Y05LA_DPG,"Los Angeles, CA Ultra-Low Sulfur CARB Diesel Spot Price (Dollars per Gallon)",2.278,$/GAL
-2026-01-27,YCUOK,NA,EPCWTI,WTI Crude Oil,PF4,Spot Price FOB,RWTC,"Cushing, OK WTI Spot Price FOB (Dollars per Barrel)",62.04,$/BBL
-2026-01-27,ZEU,NA,EPCBRENT,UK Brent Crude Oil,PF4,Spot Price FOB,RBRTE,Europe Brent Spot Price FOB (Dollars per Barrel),70.28,$/BBL
-2026-01-27,Y35NY,NEW YORK CITY,EPMRU,Conventional Regular Gasoline,PF4,Spot Price FOB,EER_EPMRU_PF4_Y35NY_DPG,New York Harbor Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon),2.114,$/GAL
-2026-01-27,RGC,NA,EPMRU,Conventional Regular Gasoline,PF4,Spot Price FOB,EER_EPMRU_PF4_RGC_DPG,U.S. Gulf Coast Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon),2.126,$/GAL
-2026-01-27,Y05LA,LOS ANGELES,EPMRR,Reformulated Regular Gasoline,PF4,Spot Price FOB,EER_EPMRR_PF4_Y05LA_DPG,Los Angeles Reformulated RBOB Regular Gasoline Spot Price (Dollars per Gallon),2.446,$/GAL
-2026-01-27,Y44MB,NA,EPLLPA,Propane,PF4,Spot Price FOB,EER_EPLLPA_PF4_Y44MB_DPG,"Mont Belvieu, TX Propane Spot Price FOB (Dollars per Gallon)",.646,$/GAL
-2026-01-27,RGC,NA,EPJK,Kerosene-Type Jet Fuel,PF4,Spot Price FOB,EER_EPJK_PF4_RGC_DPG,U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB (Dollars per Gallon),2.143,$/GAL
-2026-01-27,Y35NY,NEW YORK CITY,EPD2F,No 2 Fuel Oil / Heating Oil,PF4,Spot Price FOB,EER_EPD2F_PF4_Y35NY_DPG,New York Harbor No. 2 Heating Oil Spot Price FOB (Dollars per Gallon),2.221,$/GAL
-2026-01-27,Y35NY,NEW YORK CITY,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PF4,Spot Price FOB,EER_EPD2DXL0_PF4_Y35NY_DPG,New York Harbor Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon),2.368,$/GAL
-2026-01-27,RGC,NA,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PF4,Spot Price FOB,EER_EPD2DXL0_PF4_RGC_DPG,U.S. Gulf Coast Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon),2.216,$/GAL
-2026-01-26,Y05LA,LOS ANGELES,EPD2DC,Carb Diesel,PF4,Spot Price FOB,EER_EPD2DC_PF4_Y05LA_DPG,"Los Angeles, CA Ultra-Low Sulfur CARB Diesel Spot Price (Dollars per Gallon)",2.227,$/GAL
-2026-01-26,Y05LA,LOS ANGELES,EPMRR,Reformulated Regular Gasoline,PF4,Spot Price FOB,EER_EPMRR_PF4_Y05LA_DPG,Los Angeles Reformulated RBOB Regular Gasoline Spot Price (Dollars per Gallon),2.265,$/GAL
-2026-01-26,Y44MB,NA,EPLLPA,Propane,PF4,Spot Price FOB,EER_EPLLPA_PF4_Y44MB_DPG,"Mont Belvieu, TX Propane Spot Price FOB (Dollars per Gallon)",.643,$/GAL
-2026-01-26,RGC,NA,EPJK,Kerosene-Type Jet Fuel,PF4,Spot Price FOB,EER_EPJK_PF4_RGC_DPG,U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB (Dollars per Gallon),2.064,$/GAL
-2026-01-26,Y35NY,NEW YORK CITY,EPD2F,No 2 Fuel Oil / Heating Oil,PF4,Spot Price FOB,EER_EPD2F_PF4_Y35NY_DPG,New York Harbor No. 2 Heating Oil Spot Price FOB (Dollars per Gallon),2.169,$/GAL
-2026-01-26,Y35NY,NEW YORK CITY,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PF4,Spot Price FOB,EER_EPD2DXL0_PF4_Y35NY_DPG,New York Harbor Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon),2.317,$/GAL
-2026-01-26,RGC,NA,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PF4,Spot Price FOB,EER_EPD2DXL0_PF4_RGC_DPG,U.S. Gulf Coast Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon),2.179,$/GAL
